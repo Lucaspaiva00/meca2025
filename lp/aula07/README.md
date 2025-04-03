@@ -1,7 +1,7 @@
 # Aula 07
-Exercícios de Lógica de Programação em C++
+Exercícios de Lógica de Programação em Python
 
-## Vamos Realizar na aula de hoje alguns exercicio de  C++ para entendermos e aprimorarmos mais a relação com a lógica
+## Vamos Realizar na aula de hoje alguns exercicio de  Python para entendermos e aprimorarmos mais a relação com a lógica
 
 ## Enunciados
 
