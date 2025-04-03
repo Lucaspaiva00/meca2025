@@ -1,4 +1,4 @@
-# Aula 05
+# Aula 07
 Exercícios de Lógica de Programação em C++
 
 ## Vamos Realizar na aula de hoje alguns exercicio de  C++ para entendermos e aprimorarmos mais a relação com a lógica
